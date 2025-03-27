@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taiwo Akinosho
-- 👀 I’m interested in Data Science, Software Development and Entrepreneurship
+- 👀 I’m interested in Cloud Engineering, Data Science and Software Development
 - 🌱 I have a strong background in Information Technology and Analytics
 - 💞️ I’m looking for opportunities to apply and grow my programming skills
 - 📫 How to reach me ... https://www.linkedin.com/in/taiwoakinosho/
